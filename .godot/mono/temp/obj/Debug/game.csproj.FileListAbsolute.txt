@@ -1,0 +1,17 @@
+/Users/malgow/Documents/Godot/.godot/mono/temp/bin/Debug/game.deps.json
+/Users/malgow/Documents/Godot/.godot/mono/temp/bin/Debug/game.runtimeconfig.json
+/Users/malgow/Documents/Godot/.godot/mono/temp/bin/Debug/game.dll
+/Users/malgow/Documents/Godot/.godot/mono/temp/bin/Debug/game.pdb
+/Users/malgow/Documents/Godot/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/malgow/Documents/Godot/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/malgow/Documents/Godot/.godot/mono/temp/obj/Debug/game.csproj.AssemblyReference.cache
+/Users/malgow/Documents/Godot/.godot/mono/temp/obj/Debug/game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malgow/Documents/Godot/.godot/mono/temp/obj/Debug/game.AssemblyInfoInputs.cache
+/Users/malgow/Documents/Godot/.godot/mono/temp/obj/Debug/game.AssemblyInfo.cs
+/Users/malgow/Documents/Godot/.godot/mono/temp/obj/Debug/game.csproj.CoreCompileInputs.cache
+/Users/malgow/Documents/Godot/.godot/mono/temp/obj/Debug/game.csproj.CopyComplete
+/Users/malgow/Documents/Godot/.godot/mono/temp/obj/Debug/game.dll
+/Users/malgow/Documents/Godot/.godot/mono/temp/obj/Debug/refint/game.dll
+/Users/malgow/Documents/Godot/.godot/mono/temp/obj/Debug/game.pdb
+/Users/malgow/Documents/Godot/.godot/mono/temp/obj/Debug/game.genruntimeconfig.cache
+/Users/malgow/Documents/Godot/.godot/mono/temp/obj/Debug/ref/game.dll
